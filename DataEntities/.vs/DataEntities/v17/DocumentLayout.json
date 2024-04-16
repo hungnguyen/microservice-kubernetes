@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\my-dotnet-kubernetes\\DataEntities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\data\\productdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\products.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462D4BA-14B1-471A-B226-32760F17085B}|DataEntities.csproj|d:\\projects\\my-dotnet-kubernetes\\dataentities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E462D4BA-14B1-471A-B226-32760F17085B}|DataEntities.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462D4BA-14B1-471A-B226-32760F17085B}|DataEntities.csproj|d:\\projects\\my-dotnet-kubernetes\\dataentities\\dataentities.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E462D4BA-14B1-471A-B226-32760F17085B}|DataEntities.csproj|solutionrelative:dataentities.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Products\\appsettings.json",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\appsettings.json",
+              "RelativeToolTip": "..\\Products\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T07:17:34.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.http",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Products.http",
+              "RelativeDocumentMoniker": "..\\Products\\Products.http",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Products.http",
+              "RelativeToolTip": "..\\Products\\Products.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-15T07:16:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Products\\Program.cs",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Program.cs",
+              "RelativeToolTip": "..\\Products\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:12:01.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Products.csproj",
+              "RelativeDocumentMoniker": "..\\Products\\Products.csproj",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Products.csproj",
+              "RelativeToolTip": "..\\Products\\Products.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T07:03:07.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "..\\Products\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "..\\Products\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwEMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:50:51.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDataContext.cs",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Data\\ProductDataContext.cs",
+              "RelativeDocumentMoniker": "..\\Products\\Data\\ProductDataContext.cs",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Data\\ProductDataContext.cs",
+              "RelativeToolTip": "..\\Products\\Data\\ProductDataContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:44:04.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataEntities",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\DataEntities\\DataEntities.csproj",
+              "RelativeDocumentMoniker": "DataEntities.csproj",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\DataEntities\\DataEntities.csproj",
+              "RelativeToolTip": "DataEntities.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T06:34:57.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\DataEntities\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\DataEntities\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:34:45.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

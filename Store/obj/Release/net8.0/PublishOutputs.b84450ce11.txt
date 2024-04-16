@@ -1,0 +1,9 @@
+D:\Projects\my-dotnet-kubernetes\Store\bin\Release\net8.0\publish\Store.exe
+D:\Projects\my-dotnet-kubernetes\Store\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Projects\my-dotnet-kubernetes\Store\bin\Release\net8.0\publish\appsettings.json
+D:\Projects\my-dotnet-kubernetes\Store\bin\Release\net8.0\publish\Store.dll
+D:\Projects\my-dotnet-kubernetes\Store\bin\Release\net8.0\publish\Store.deps.json
+D:\Projects\my-dotnet-kubernetes\Store\bin\Release\net8.0\publish\Store.runtimeconfig.json
+D:\Projects\my-dotnet-kubernetes\Store\bin\Release\net8.0\publish\Store.pdb
+D:\Projects\my-dotnet-kubernetes\Store\bin\Release\net8.0\publish\DataEntities.dll
+D:\Projects\my-dotnet-kubernetes\Store\bin\Release\net8.0\publish\DataEntities.pdb

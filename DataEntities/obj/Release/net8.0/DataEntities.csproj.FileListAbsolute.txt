@@ -1,0 +1,11 @@
+D:\Projects\my-dotnet-kubernetes\DataEntities\bin\Release\net8.0\DataEntities.deps.json
+D:\Projects\my-dotnet-kubernetes\DataEntities\bin\Release\net8.0\DataEntities.dll
+D:\Projects\my-dotnet-kubernetes\DataEntities\bin\Release\net8.0\DataEntities.pdb
+D:\Projects\my-dotnet-kubernetes\DataEntities\obj\Release\net8.0\DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\my-dotnet-kubernetes\DataEntities\obj\Release\net8.0\DataEntities.AssemblyInfoInputs.cache
+D:\Projects\my-dotnet-kubernetes\DataEntities\obj\Release\net8.0\DataEntities.AssemblyInfo.cs
+D:\Projects\my-dotnet-kubernetes\DataEntities\obj\Release\net8.0\DataEntities.csproj.CoreCompileInputs.cache
+D:\Projects\my-dotnet-kubernetes\DataEntities\obj\Release\net8.0\DataEntities.dll
+D:\Projects\my-dotnet-kubernetes\DataEntities\obj\Release\net8.0\refint\DataEntities.dll
+D:\Projects\my-dotnet-kubernetes\DataEntities\obj\Release\net8.0\DataEntities.pdb
+D:\Projects\my-dotnet-kubernetes\DataEntities\obj\Release\net8.0\ref\DataEntities.dll

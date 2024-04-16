@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\my-dotnet-kubernetes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|solutionrelative:products\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\data\\productdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|solutionrelative:products\\data\\productdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|solutionrelative:products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|solutionrelative:products\\products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|d:\\projects\\my-dotnet-kubernetes\\store\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59E99D7-C86F-4A4E-951D-04C543546AE5}|Store\\Store.csproj|solutionrelative:store\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\products.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|solutionrelative:products\\products.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|d:\\projects\\my-dotnet-kubernetes\\products\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52ECAE4C-63A2-4AEC-941D-9D6A602D4099}|..\\Products\\Products.csproj|solutionrelative:products\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462D4BA-14B1-471A-B226-32760F17085B}|DataEntities.csproj|d:\\projects\\my-dotnet-kubernetes\\dataentities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E462D4BA-14B1-471A-B226-32760F17085B}|DataEntities.csproj|solutionrelative:dataentities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E462D4BA-14B1-471A-B226-32760F17085B}|DataEntities.csproj|d:\\projects\\my-dotnet-kubernetes\\dataentities\\dataentities.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E462D4BA-14B1-471A-B226-32760F17085B}|DataEntities.csproj|solutionrelative:dataentities\\dataentities.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Store\\Components\\Routes.razor",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Routes.razor",
+              "RelativeToolTip": "Store\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T08:05:45.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.razor",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "Store\\Components\\Pages\\Products.razor",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Pages\\Products.razor",
+              "RelativeToolTip": "Store\\Components\\Pages\\Products.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T08:05:14.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Store\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Store\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T08:04:48.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Store\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Services\\ProductService.cs",
+              "RelativeToolTip": "Store\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:03:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\appsettings.json",
+              "RelativeDocumentMoniker": "Products\\appsettings.json",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\appsettings.json",
+              "RelativeToolTip": "Products\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T07:17:34.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Products.csproj",
+              "RelativeDocumentMoniker": "Products\\Products.csproj",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Products.csproj",
+              "RelativeToolTip": "Products\\Products.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T07:03:07.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Program.cs",
+              "RelativeDocumentMoniker": "Products\\Program.cs",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Program.cs",
+              "RelativeToolTip": "Products\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:12:01.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\appsettings.json",
+              "RelativeDocumentMoniker": "Store\\appsettings.json",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\appsettings.json",
+              "RelativeToolTip": "Store\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T08:07:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDataContext.cs",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Data\\ProductDataContext.cs",
+              "RelativeDocumentMoniker": "Products\\Data\\ProductDataContext.cs",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Data\\ProductDataContext.cs",
+              "RelativeToolTip": "Products\\Data\\ProductDataContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:44:04.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Store\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Store\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T08:05:50.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Store\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Store\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T08:06:13.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Store\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\_Imports.razor",
+              "RelativeToolTip": "Store\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T08:06:19.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Store\\Components\\App.razor",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\App.razor",
+              "RelativeToolTip": "Store\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T08:06:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Program.cs",
+              "RelativeDocumentMoniker": "Store\\Program.cs",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Program.cs",
+              "RelativeToolTip": "Store\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:06:39.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Store\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Store\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Store\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T08:08:16.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Products.http",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Products.http",
+              "RelativeDocumentMoniker": "Products\\Products.http",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Products.http",
+              "RelativeToolTip": "Products\\Products.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-15T07:16:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "Products\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\Products\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "Products\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwEMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:50:51.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataEntities",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\DataEntities\\DataEntities.csproj",
+              "RelativeDocumentMoniker": "DataEntities\\DataEntities.csproj",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\DataEntities\\DataEntities.csproj",
+              "RelativeToolTip": "DataEntities\\DataEntities.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T06:34:57.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\my-dotnet-kubernetes\\DataEntities\\Product.cs",
+              "RelativeDocumentMoniker": "DataEntities\\Product.cs",
+              "ToolTip": "D:\\Projects\\my-dotnet-kubernetes\\DataEntities\\Product.cs",
+              "RelativeToolTip": "DataEntities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:34:45.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

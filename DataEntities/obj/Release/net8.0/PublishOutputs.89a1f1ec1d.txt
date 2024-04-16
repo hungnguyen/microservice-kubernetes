@@ -1,0 +1,3 @@
+D:\Projects\my-dotnet-kubernetes\DataEntities\bin\Release\net8.0\publish\DataEntities.dll
+D:\Projects\my-dotnet-kubernetes\DataEntities\bin\Release\net8.0\publish\DataEntities.deps.json
+D:\Projects\my-dotnet-kubernetes\DataEntities\bin\Release\net8.0\publish\DataEntities.pdb
